@@ -1,7 +1,7 @@
 <?php
 
 function Saludar() {
-    return "Hola Pipiola desde Master!";
+    return "Hola Pipiola!";
 }
 
 echo Saludar();
